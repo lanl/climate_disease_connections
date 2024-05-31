@@ -33,5 +33,5 @@ Moser, S. K., Spencer, J. A., Barnard, M., Hyman, J. M., Manore, C. A., and Gorr
 [![DOI](https://zenodo.org/badge/808272154.svg)](https://zenodo.org/doi/10.5281/zenodo.11403630)
 
 # LA-UR:
-This repository is approved for public release under LA-UR-24-XXXXX.
+This repository is approved for public release under LA-UR-24-25381.
 
