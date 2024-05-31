@@ -27,7 +27,10 @@ This repository contains 8 .csv files containing annual PRISM climate data avera
 Each .csv file is ~4 KB in size. 
 
 This paper is currently under review and a link and citation will be provided once it is published. A tentative citation is: 
-Moser, S. K., Spencer, J. A., Barnard, M., Hyman, J. M., Manore, C. A., and Gorris, M. E. (In Review, 2024). Exploring climate-disease connections in geopolitical versus ecological regions: the case of West Nile virus in the United States. GeoHealth. 
+Moser, S. K., Spencer, J. A., Barnard, M., Hyman, J. M., Manore, C. A., and Gorris, M. E. (In Review, 2024). Exploring climate-disease connections in geopolitical versus ecological regions: the case of West Nile virus in the United States. GeoHealth.  
+
+**The DOI for this dataset is:**  
+[![DOI](https://zenodo.org/badge/808272154.svg)](https://zenodo.org/doi/10.5281/zenodo.11403630)
 
 # LA-UR:
 This repository is approved for public release under LA-UR-24-XXXXX.
